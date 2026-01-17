@@ -1,31 +1,18 @@
-# MERN Stack Internship – Task 1
+# MERN Stack Internship – Task 1 🚀
 
-This is my first MERN stack project created as part of a virtual internship.
+A full-stack MERN application demonstrating successful backend integration with **MongoDB Atlas**.
 
-## Tech Used
-- React JS
-- Node JS
-- Express JS
-- MongoDB
+## 🔥 Features
+- React frontend with clean UI
+- Node.js & Express backend
+- MongoDB Atlas cloud database
+- REST API integration
+- Environment variable security
 
-## About Project
-A simple React frontend fetches data from an Express backend API.
-MongoDB is connected to maintain MERN architecture.
+## 🛠 Tech Stack
+- **Frontend:** React.js
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB Atlas
+- **Tools:** Git, GitHub
 
-## How to Run
-
-### Backend
-cd backend  
-npm install  
-node server.js  
-
-### Frontend
-cd frontend  
-npm install  
-npm start  
-
-## Output
-The React app displays a message fetched from the backend API.
-
-## Author
-Priyesh Kumar
+## ⚙️ Project Structure
